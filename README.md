@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hi, I'm <span style="color:#f97316; animation: pulse 2s infinite;">Kuldeep Soni</span> ✨
 </h1>
-<h3 align="center">💻 Full-Stack Developer | India 🇮🇳 | AI/ML Enthusiast</h3>
+<h3 align="center">💻 Learning Full-Stack Development | India 🇮🇳 | AI/ML Enthusiast</h3>
 
 <!-- Profile Views -->
 <p align="center">
@@ -12,7 +12,7 @@
 
 <!-- About Me Section -->
 <p align="left">
-🚀 <strong>Currently Building:</strong> <em>AI YouTube Video Notes Generator</em><br><br>
+🚀 <strong>Currently Building:</strong> <em> Skills in 3D website and AI</em><br><br>
 🌱 <strong>Learning:</strong> <em>Full-Stack Development & AI/ML</em><br><br>
 💼 <strong>Portfolio & Projects:</strong> <a href="https://github.com/justkuldeep" target="_blank">github.com/justkuldeep</a><br><br>
 ✍️ <strong>Technical Writings:</strong> <a href="https://medium.com/@justkuldeep" target="_blank">medium.com/@justkuldeep</a><br><br>
