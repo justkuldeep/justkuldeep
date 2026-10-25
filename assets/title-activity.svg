@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100" viewBox="0 0 1200 100">
+<defs><linearGradient id="g"><stop stop-color="#00E5FF"/><stop offset="1" stop-color="#0B4166"/></linearGradient></defs>
+<rect width="1200" height="100" rx="14" fill="#07131F" stroke="#0B3550"/>
+<text x="28" y="34" font-family="Arial,sans-serif" font-size="13" letter-spacing="3" fill="#7DD3FC">04 / KULDEEP SONI</text>
+<text x="28" y="74" font-family="Georgia,serif" font-size="34" fill="#EAFBFF">A year of building.</text>
+<text x="1170" y="70" text-anchor="end" font-family="Georgia,serif" font-size="17" font-style="italic" fill="url(#g)">Small commits. Better systems.</text>
+<path d="M28 86 H1172" stroke="#155E8A" stroke-width="1"/>
+</svg>

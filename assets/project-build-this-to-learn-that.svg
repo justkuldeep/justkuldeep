@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+<rect width="1200" height="190" rx="16" fill="#071827" stroke="#0B4166"/>
+<rect x="0" y="0" width="9" height="190" rx="4" fill="#168AAD"/>
+<text x="32" y="38" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#38BDF8">MAJOR PROJECT · AI LEARNING</text>
+<text x="32" y="78" font-family="Georgia,serif" font-size="30" fill="#EAFBFF">BUILD THIS TO LEARN THAT</text>
+<text x="32" y="112" font-family="Arial,sans-serif" font-size="16" fill="#B8DDF2">A project-based learning platform concept that personalizes projects, resources and milestones.</text>
+<text x="32" y="151" font-family="Arial,sans-serif" font-size="14" fill="#7DD3FC">React · Vite · Tailwind · Express · FastAPI · LangGraph</text>
+<circle cx="1135" cy="45" r="22" fill="#00BFD8"/><path d="M1125 45h20m-8 -8 8 8 -8 8" stroke="#E0F2FE" stroke-width="2" fill="none"/>
+</svg>
